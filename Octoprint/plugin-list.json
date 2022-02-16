@@ -1,0 +1,72 @@
+[
+  {
+    "key": "TemperatureLegendMover",
+    "name": "TemperatureLegendMover",
+    "url": "https://github.com/OllisGit/OctoPrint-TemperatureLegendMover"
+  },
+  {
+    "key": "prusaslicerthumbnails",
+    "name": "Slicer Thumbnails",
+    "url": "https://github.com/jneilliii/OctoPrint-PrusaSlicerThumbnails"
+  },
+  {
+    "key": "Octoslack",
+    "name": "Octoslack",
+    "url": "https://github.com/fraschetti/Octoslack"
+  },
+  {
+    "key": "tplinksmartplug",
+    "name": "TP-Link Smartplug",
+    "url": "https://github.com/jneilliii/OctoPrint-TPLinkSmartplug"
+  },
+  {
+    "key": "taborder",
+    "name": "Tab Order",
+    "url": "https://github.com/jneilliii/OctoPrint-TabOrder"
+  },
+  {
+    "key": "PrintTimeGenius",
+    "name": "PrintTimeGenius Plugin",
+    "url": "https://github.com/eyal0/OctoPrint-PrintTimeGenius"
+  },
+  {
+    "key": "prettygcode",
+    "name": "PrettyGCode",
+    "url": "https://github.com/Kragrathea/OctoPrint-PrettyGCode"
+  },
+  {
+    "key": "octopod",
+    "name": "OctoPod Plugin",
+    "url": "https://github.com/gdombiak/OctoPrint-OctoPod"
+  },
+  {
+    "key": "floatingnavbar",
+    "name": "Floating Navbar",
+    "url": "https://github.com/jneilliii/OctoPrint-FloatingNavbar"
+  },
+  {
+    "key": "marlingcodedocumentation",
+    "name": "Marlin GCode Documentation",
+    "url": "https://github.com/costas-basdekis/MarlinGcodeDocumentation"
+  },
+  {
+    "key": "DisplayLayerProgress",
+    "name": "DisplayLayerProgress Plugin",
+    "url": "https://github.com/OllisGit/OctoPrint-DisplayLayerProgress"
+  },
+  {
+    "key": "consolidatedtabs",
+    "name": "Consolidated Tabs",
+    "url": "https://github.com/jneilliii/OctoPrint-ConsolidatedTabs"
+  },
+  {
+    "key": "bedlevelvisualizer",
+    "name": "Bed Visualizer",
+    "url": "https://github.com/jneilliii/OctoPrint-BedLevelVisualizer"
+  },
+  {
+    "key": "octolapse",
+    "name": "Octolapse",
+    "url": "https://github.com/FormerLurker/Octolapse"
+  }
+]
